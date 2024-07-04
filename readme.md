@@ -1,3 +1,4 @@
+<pre>
 $ ./kaelRand <br />
 Usage: kaelRand [options]<br />
 Options:<br />
@@ -10,3 +11,4 @@ Options:<br />
   --debug         Debug information<br />
   --seed [seed]   Starting seed<br />
   --states [size] State array size in uint64<br />
+</pre>
