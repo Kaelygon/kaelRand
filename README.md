@@ -1,2 +1,0 @@
-# kaelRand
-Rotate Right LCG
